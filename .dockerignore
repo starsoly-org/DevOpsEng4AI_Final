@@ -1,0 +1,7 @@
+.github/
+.git/
+__pycache__/
+*.ipynb
+*.log
+*.md
+terraform_infra/
