@@ -15,3 +15,5 @@ COPY --from=train /train/model.pkl model.pkl
 COPY app.py ./
 
 CMD ["app.lambda_handler"]
+
+#Trigger
